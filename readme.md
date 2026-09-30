@@ -10,7 +10,7 @@
 | [批量视频去水印](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-video-watermark-remover) | 选择本地视频、框选固定水印区域并使用 FFmpeg 精细蒙版批量去除水印               |
 | [透明头像](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-transparent-avatar) | 上传半透明的用户头像                            |
 | [评论搜索](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-comment-search)  | 根据 UID 或关键词，快速搜索评论区评论                 |
-| [用户弹幕查询](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-user-danmaku-search) | 根据 UID 查询已收录的直播弹幕，并保存本地查询记录          |
+| [用户弹幕查询](https://github.com/struggle0929/bilitoolkit-plugin-struggle0929/tree/main/bilitoolkit-plugin-user-danmaku-search) | 根据 UID 查询已收录的直播弹幕，并保存本地查询记录          |
 | [移除机器人粉丝](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-remove-bot-followers) | 批量移除并拉黑粉丝中的机器人或片姐                     |
 | [视频存档](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-video-archive)   | 自动保存指定用户的最新视频投稿，方便补档                  |
 | [评论导出](https://github.com/hzhilong/bilitoolkit-plugins/blob/main/bilitoolkit-plugin-comment-export)  | 导出评论，支持本地浏览和查询                        |
