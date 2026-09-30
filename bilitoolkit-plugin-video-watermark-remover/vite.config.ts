@@ -22,7 +22,6 @@ export default defineConfig((configEnv: ConfigEnv) => {
     ],
     resolve: {
       alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) },
-      preserveSymlinks: true,
     },
     optimizeDeps: {
       include: ['element-plus', 'element-plus/es'],
