@@ -21,13 +21,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/struggle0929/bilitoolkit-plugins-struggle",
+    "url": "https://github.com/hzhilong/bilitoolkit-plugins.git",
     "directory": "bilitoolkit-plugin-video-watermark-remover"
   },
   "bugs": {
     "url": "https://github.com/struggle0929/bilitoolkit-plugins-struggle/issues"
   },
-  "homepage": "https://github.com/struggle0929/bilitoolkit-plugins-struggle/tree/feature/video-delogo/bilitoolkit-plugin-video-watermark-remover#readme",
+  "homepage": "https://github.com/hzhilong/bilitoolkit-plugins/tree/main/bilitoolkit-plugin-video-watermark-remover#readme",
   "scripts": {
     "check": "vue-tsc --build --noEmit && eslint .",
     "lint": "eslint . --fix",
@@ -39,11 +39,11 @@
     "pnpm publish": "pnpm publish --access public"
   },
   "dependencies": {
+    "@ybgnb/bili-api": "^1.0.2",
     "@ybgnb/utils": "^1.0.0",
-    "@ybgnb/bili-api": "workspace:^",
-    "bilitoolkit-runtime": "workspace:^",
-    "bilitoolkit-types": "workspace:^",
-    "bilitoolkit-ui": "workspace:^",
+    "bilitoolkit-runtime": "^1.0.0",
+    "bilitoolkit-types": "^1.0.2",
+    "bilitoolkit-ui": "^1.0.1",
     "element-plus": "^2.13.7",
     "pinia": "^3.0.3",
     "pinia-plugin-persistedstate": "^4.5.0",
@@ -63,9 +63,9 @@
     "prettier": "3.6.2",
     "sass": "^1.92.1",
     "typescript": "^5.9.3",
-    "vite": "^7.3.3",
-    "vue-tsc": "^3.0.4",
     "unplugin-auto-import": "^21.0.0",
-    "unplugin-vue-components": "^32.0.0"
+    "unplugin-vue-components": "^32.0.0",
+    "vite": "^7.3.3",
+    "vue-tsc": "^3.0.4"
   }
 }
